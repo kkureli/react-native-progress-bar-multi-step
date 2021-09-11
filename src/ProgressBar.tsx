@@ -1,3 +1,4 @@
+/* eslint-disable react-native/no-inline-styles */
 import React, { FC } from 'react';
 import {
   Dimensions,
@@ -67,7 +68,17 @@ const ProgressBar: FC<ProgressiveBarProps> = ({
   ]);
 
   return (
-    <View style={progressStyle.containerStyle}>
+    <View
+      style={[
+        progressStyle.containerStyle,
+        {
+          alignSelf: 'center',
+          flexDirection: 'row',
+          alignItems: 'center',
+          justifyContent: 'center',
+        },
+      ]}
+    >
       {tabs.map((e, i) => {
         const statusIsFinished = {
           circle: progressive ? page > e.pageNo : page === e.pageNo,
