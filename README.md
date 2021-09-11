@@ -1,6 +1,7 @@
 ![progressBar](https://user-images.githubusercontent.com/33238066/132953706-15319503-6560-4111-bffb-88d181968865.gif)
 
 # react-native-progress-bar-multi-step
+https://www.npmjs.com/package/react-native-progress-bar-multi-step
 
 Customizable multi step progress bar
 
