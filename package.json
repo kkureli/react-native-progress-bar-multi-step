@@ -1,6 +1,6 @@
 {
   "name": "react-native-progress-bar-multi-step",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "customizable multi step progress bar",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
