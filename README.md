@@ -1,3 +1,4 @@
+<img width="285" alt="Screen Shot 2021-09-11 at 6 25 24 PM" src="https://user-images.githubusercontent.com/33238066/132952928-af20dabd-7036-42d5-a881-dd046f500e52.png">
 # react-native-progress-bar-multi-step
 
 Customizable multi step progress bar
