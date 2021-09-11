@@ -1,0 +1,22 @@
+{
+  "name": "react-native-progress-bar-multi-step-example",
+  "displayName": "ProgressBarMultiStep Example",
+  "expo": {
+    "name": "react-native-progress-bar-multi-step-example",
+    "slug": "react-native-progress-bar-multi-step-example",
+    "description": "Example app for react-native-progress-bar-multi-step",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
