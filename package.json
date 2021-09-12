@@ -1,6 +1,6 @@
 {
   "name": "react-native-progress-bar-multi-step",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "customizable multi step progress bar",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -32,9 +32,15 @@
     "bootstrap": "yarn example && yarn && yarn pods"
   },
   "keywords": [
-    "react-native",
+    "react",
+    "native",
     "ios",
-    "android"
+    "android",
+    "progress",
+    "bar",
+    "multi",
+    "step",
+    "tab"
   ],
   "repository": "https://github.com/kkureli/react-native-progress-bar-multi-step",
   "author": "Kaan Küreli <kkureli@gmail.com> (https://github.com/kkureli)",
