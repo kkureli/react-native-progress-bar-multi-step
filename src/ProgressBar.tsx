@@ -177,7 +177,7 @@ const styles = StyleSheet.create({
     height: 56,
   },
   stepNoText: { color: 'white', fontWeight: 'bold', fontSize: 22 },
-  label: { justifyContent: 'center' },
+  label: { justifyContent: 'center', alignItems: 'center' },
   line: {
     height: 3,
     width: 60,
